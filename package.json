@@ -2,7 +2,7 @@
   "name": "codebytere",
   "version": "1.0.0",
   "description": "personal npm card",
-  "main": "card.js",
+  "main": "index.js",
   "bin": {
     "codebytere": "./bin/card.js"
   },
