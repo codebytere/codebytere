@@ -16,7 +16,7 @@
     "url": "https://github.com/codebytere/codebytere/issues"
   },
   "homepage": "https://github.com/codebytere/codebytere#readme",
-  "devDependencies": {
+  "dependencies": {
     "boxen": "^2.1.0",
     "chalk": "^2.4.1"
   }
