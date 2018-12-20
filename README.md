@@ -1,3 +1,3 @@
 ## codebytere's personal npm card
 
-h/t @bnb for the idea!
+h/t **`@bnb`** for the idea!
