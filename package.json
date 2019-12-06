@@ -1,6 +1,6 @@
 {
   "name": "codebytere",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "personal npm card",
   "main": "index.js",
   "bin": {

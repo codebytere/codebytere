@@ -12,7 +12,7 @@ const options = {
 const data = {
   name: chalk.white('Shelley Vohr/'),
   handle: chalk.cyan('codebytere'),
-  work: chalk.white('Software Engineer at GitHub'),
+  work: chalk.white('Software Engineer at Microsoft'),
   twitter: chalk.cyan('https://twitter.com/codebytere'),
   github: chalk.cyan('https://github.com/codebytere'),
   linkedin: chalk.cyan('https://linkedin.com/in/codebytere'),
