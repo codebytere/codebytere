@@ -1,18 +1,16 @@
 Hello! I'm Shelley.
 
-Around GitHub, you'll find me:
+At work:
 
-* Working as a core engineer on the [Electron.js project](https://github.com/electron/electron), on behalf of Microsoft
-* Working as a core collaborator and Releaser on the [Node.js project](https://github.com/nodejs/node), where I'm also a member of the Technical Steering Committee.
-* Messing around with native Node.js addons - particularly ones that [tie together](https://github.com/codebytere/node-mac-permissions) JavaScript and [funky](https://github.com/codebytere/node-mac-contacts) macOS functionality.
+* Working as a core engineer on [Electron.js](https://github.com/electron/electron) :electron:, on behalf of Microsoft
+* Working on [Node.js](https://github.com/nodejs/node):
+  * As a member of the [Technical Steering Committee](https://github.com/nodejs/TSC).
+  * As a Core Collaborator.
+  * As a [Releaser](https://github.com/nodejs/Release).
+* Automating literally all the things 🤖
+* Messing around with native Node.js addons - particularly ones that [tie together](https://github.com/codebytere/node-mac-permissions) JavaScript and [funky](https://github.com/codebytere/node-mac-contacts) macOS [functionality](https://github.com/codebytere/node-mac-userdefaults).
 * Helping organize [QueerJS](https://queerjs.com/) - a meetup for everyone where Queer speakers take the stage.
 
-Outside work, you'll find me:
+Outside work: 🏃🏻‍♀️ - :book: - 🎶 - 🏁 - 🌁 - 🚲 - 🌿
 
-* Listening to way too much music
-* Reading
-* Playing frisbee
-* Running
-* Doing crossword puzzles
-
-I'm  **@codebytere** pretty much everywhere around the internet - feel free to drop me a line but i can't promise i'm the best DM-checker 😅.
+I'm  **@codebytere** everywhere - find me on [twitter](https://twitter.com/codebytere), [codebyte.re](http://codebyte.re), [dev.to](https://dev.to/codebytere), etc!
