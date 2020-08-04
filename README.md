@@ -2,7 +2,8 @@ Hello! I'm Shelley.
 
 At work:
 
-* Working as a core engineer on [Electron.js](https://github.com/electron/electron) :electron:, on behalf of Microsoft
+* Working as a core engineer on [Electron.js](https://github.com/electron/electron) :electron: via Microsoft
+* Working with the [Cross Project Council](https://github.com/openjs-foundation/cross-project-council) as a Voting Member for Electron to help oversee the technical governance of all OpenJS Projects and Working Groups under the OpenJS Foundation.
 * Working on [Node.js](https://github.com/nodejs/node):
   * As a member of the [Technical Steering Committee](https://github.com/nodejs/TSC).
   * As a Core Collaborator.
