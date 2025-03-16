@@ -3,10 +3,8 @@ Hello! I'm Shelley.
 Eng Stuff @ Work:
 
 * Working as a core engineer on [Electron.js](https://github.com/electron/electron) :electron: via Microsoft
-* Working with the [Cross Project Council](https://github.com/openjs-foundation/cross-project-council) as a Voting Member for Electron to help oversee the technical governance of all OpenJS Projects and Working Groups under the OpenJS Foundation.
 * Working on [Node.js](https://github.com/nodejs/node):
   * As a Core Collaborator.
-  * As a [Releaser](https://github.com/nodejs/Release).
 * Automating literally all the things 🤖
 
 Eng Stuff Not @ Work:
