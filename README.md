@@ -2,7 +2,7 @@ Hello! I'm Shelley.
 
 Eng Stuff @ Work:
 
-* Working on Claude Code at @anthropics.
+* Working on Claude Code at [Anthropic](https://github.com/anthropics)
 * Working as a core engineer on [Electron.js](https://github.com/electron/electron)
 * Working on [Node.js](https://github.com/nodejs/node):
   * As a Core Collaborator.
